@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jassmin\\source\\repos\\Peliculas_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D376CFC-D449-4357-88CA-1B74498A2D1B}|Peliculas_api\\Peliculas_api.csproj|c:\\users\\jassmin\\source\\repos\\peliculas_api\\peliculas_api\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D376CFC-D449-4357-88CA-1B74498A2D1B}|Peliculas_api\\Peliculas_api.csproj|solutionrelative:peliculas_api\\controllers\\peliculascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D376CFC-D449-4357-88CA-1B74498A2D1B}|Peliculas_api\\Peliculas_api.csproj|c:\\users\\jassmin\\source\\repos\\peliculas_api\\peliculas_api\\models\\generomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D376CFC-D449-4357-88CA-1B74498A2D1B}|Peliculas_api\\Peliculas_api.csproj|solutionrelative:peliculas_api\\models\\generomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D376CFC-D449-4357-88CA-1B74498A2D1B}|Peliculas_api\\Peliculas_api.csproj|c:\\users\\jassmin\\source\\repos\\peliculas_api\\peliculas_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D376CFC-D449-4357-88CA-1B74498A2D1B}|Peliculas_api\\Peliculas_api.csproj|solutionrelative:peliculas_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D376CFC-D449-4357-88CA-1B74498A2D1B}|Peliculas_api\\Peliculas_api.csproj|c:\\users\\jassmin\\source\\repos\\peliculas_api\\peliculas_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D376CFC-D449-4357-88CA-1B74498A2D1B}|Peliculas_api\\Peliculas_api.csproj|solutionrelative:peliculas_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneroModel.cs",
+              "DocumentMoniker": "C:\\Users\\Jassmin\\source\\repos\\Peliculas_api\\Peliculas_api\\Models\\GeneroModel.cs",
+              "RelativeDocumentMoniker": "Peliculas_api\\Models\\GeneroModel.cs",
+              "ToolTip": "C:\\Users\\Jassmin\\source\\repos\\Peliculas_api\\Peliculas_api\\Models\\GeneroModel.cs",
+              "RelativeToolTip": "Peliculas_api\\Models\\GeneroModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T19:48:43.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jassmin\\source\\repos\\Peliculas_api\\Peliculas_api\\appsettings.json",
+              "RelativeDocumentMoniker": "Peliculas_api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jassmin\\source\\repos\\Peliculas_api\\Peliculas_api\\appsettings.json",
+              "RelativeToolTip": "Peliculas_api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T23:31:20.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeliculasController.cs",
+              "DocumentMoniker": "C:\\Users\\Jassmin\\source\\repos\\Peliculas_api\\Peliculas_api\\Controllers\\PeliculasController.cs",
+              "RelativeDocumentMoniker": "Peliculas_api\\Controllers\\PeliculasController.cs",
+              "ToolTip": "C:\\Users\\Jassmin\\source\\repos\\Peliculas_api\\Peliculas_api\\Controllers\\PeliculasController.cs",
+              "RelativeToolTip": "Peliculas_api\\Controllers\\PeliculasController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAUwHMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:24:55.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jassmin\\source\\repos\\Peliculas_api\\Peliculas_api\\Program.cs",
+              "RelativeDocumentMoniker": "Peliculas_api\\Program.cs",
+              "ToolTip": "C:\\Users\\Jassmin\\source\\repos\\Peliculas_api\\Peliculas_api\\Program.cs",
+              "RelativeToolTip": "Peliculas_api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T23:24:19.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
